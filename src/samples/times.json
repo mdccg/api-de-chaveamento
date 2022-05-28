@@ -1,0 +1,114 @@
+[
+	{
+		"lado": "Oeste",
+		"numero_ordinario": 1,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/7212.png?v=637862286458232972",
+		"nome": "Água Santa",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Oeste",
+		"numero_ordinario": 2,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/42.png?v=637862286458232972",
+		"nome": "Botafogo",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Oeste",
+		"numero_ordinario": 3,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/78.png?v=637862286458232972",
+		"nome": "Corinthians",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Oeste",
+		"numero_ordinario": 5,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/9541.png?v=637862286458232972",
+		"nome": "Grêmio Novorizontino",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Oeste",
+		"numero_ordinario": 4,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/4564.png?v=637862286458232972",
+		"nome": "Ferroviária",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Oeste",
+		"numero_ordinario": 6,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/242.png?v=637862286458232972",
+		"nome": "Guarani",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Oeste",
+		"numero_ordinario": 7,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/257.png?v=637862286458232972",
+		"nome": "Inter Limeira",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Oeste",
+		"numero_ordinario": 8,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/271.png?v=637862286458232972",
+		"nome": "Ituano",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Leste",
+		"numero_ordinario": 1,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/3293.png?v=637862286458232972",
+		"nome": "Mirassol",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Leste",
+		"numero_ordinario": 2,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/3320.png?v=637862286458232972",
+		"nome": "Palmeiras",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Leste",
+		"numero_ordinario": 3,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/3344.png?v=637862286458232972",
+		"nome": "Ponte Preta",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Leste",
+		"numero_ordinario": 4,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/45.png?v=637862286458232972",
+		"nome": "Red Bull Bragantino",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Leste",
+		"numero_ordinario": 5,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/3381.png?v=637862286458232972",
+		"nome": "Santo André",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Leste",
+		"numero_ordinario": 6,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/3383.png?v=637862286458232972",
+		"nome": "Santos",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Leste",
+		"numero_ordinario": 7,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/3388.png?v=637862286458232972",
+		"nome": "São Bernando FC",
+		"numero_vitorias": 0
+	},
+	{
+		"lado": "Leste",
+		"numero_ordinario": 8,
+		"url_logotipo": "https://conteudo.fpf.org.br/escudos/clube/png/3395.png?v=637862286458232972",
+		"nome": "São Paulo",
+		"numero_vitorias": 0
+	}
+]

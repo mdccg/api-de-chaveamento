@@ -1,0 +1,1 @@
+module.exports = (vetor) => vetor.map((elemento) => parseInt(elemento));
